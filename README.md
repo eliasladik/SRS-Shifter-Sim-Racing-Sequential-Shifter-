@@ -1,9 +1,8 @@
-# 🏎️ Sim Racing Radička (Sekvenční)
+# 🏎️ SRS-Shifter (Sim Racing Sequential Shifter)
 
 > 🚧 **Upozornění:** Tento projekt je aktuálně ve vývoji (Work in Progress). Funkcionalita, dokumentace i modely se mohou v průběhu času měnit a vylepšovat!
 
-Vlastní sekvenční řadička pro sim racing, postavená na mikrokontroléru **Arduino Pro Micro**. 
-Do PC (nebo konkrétní hry) se hlásí jako standardní USB gamepad se 2 tlačítky (nahoru / dolů), díky čemuž funguje okamžitě a bez nutnosti instalace dalších ovladačů (Plug & Play).
+Vlastní sekvenční řadička pro sim racing, postavená na mikrokontroléru **Arduino Pro Micro**...
 
 ---
 
