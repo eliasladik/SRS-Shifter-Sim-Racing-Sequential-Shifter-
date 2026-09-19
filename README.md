@@ -18,6 +18,10 @@ radicka/
 │       └── radicka.ino     # hlavní firmware
 ├── docs/
 │   └── wiring.md            # schéma zapojení
+├── dily/                    # 3D modely, výkresy, datasheety
+├── bom/
+│   └── BOM.md                # kusovník
+├── obrazky/                  # fotky, screenshoty
 └── README.md
 ```
 
